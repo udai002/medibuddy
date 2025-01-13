@@ -68,6 +68,7 @@ const onSuccess = ()=>{
   <HealthPackage category={categories} packages={packages} />
   <ActiveAppointment healthPack={lifeStyleHealthPack}/>
   <LifeStylePackage healthPack={lifeStyleHealthPack}/>
+  
 </div>
 }
 
